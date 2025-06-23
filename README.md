@@ -9,14 +9,14 @@ This repository contains all presentations, documents, and summaries prepared du
 
 | **File Name**                         | **Description**                                                               |
 | ------------------------------------- | ----------------------------------------------------------------------------- |
-| `01_NTPC_Overview_Layout.pptx`        | General layout and introduction to NTPC Faridabad, including plant components |
-| `02_Switchyard_Operation.pptx`        | Overview of switchyard equipment and 220 kV operational insights              |
-| `03_Power_Scenario_India.pptx`        | Presentation on the current and future power situation of India               |
-| `04_Power_Transformer.pptx`           | Construction, working, and protection of power transformers                   |
-| `05_Solar_Plant_Overview.pptx`        | NTPC’s solar power system, layout, and SCADA monitoring setup                 |
-| `06_Black_Start_DG_Set.pptx`          | Purpose, configuration, and working of Black Start Diesel Generator system    |
-| `07_Relay_Panels_and_Protection.pptx` | Details of CRP, GRP, TRP panels and their relays used in power protection     |
-| `08_Report_Dairy.pdf`                 | Consolidated report of the entire internship experience                       |
+|  01 NTPC Layout                       | General layout and introduction to NTPC Faridabad, including plant components |
+|  02 Switchyard                        | Overview of switchyard equipment and 220 kV operational insights              |
+|  03 Power Situation of India          | Presentation on the current and future power situation of India               |
+|  04 Power Transformer                 | Construction, working, and protection of power transformers                   |
+|  05 Solar Plant                       | NTPC’s solar power system, layout, and SCADA monitoring setup                 |
+|  06 Black Start DG Set                | Purpose, configuration, and working of Black Start Diesel Generator system    |
+|  07 Relay Panels                      | Details of CRP, GRP, TRP panels and their relays used in power protection     |
+|  08 Report                            | Consolidated report of the entire internship experience                       |
 
 ---
 
@@ -44,7 +44,7 @@ This repository contains all presentations, documents, and summaries prepared du
 ## 📍 Location
 
 > Internship conducted at **NTPC Faridabad Gas Power Station**, Haryana, India  
-> Duration: *(Add your internship dates here)*
+> Duration: **15-May-25 to 26-June-25**
 
 ---
 
